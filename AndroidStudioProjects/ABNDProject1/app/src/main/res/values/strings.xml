@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ABND Project 1</string>
+    <string name="travelmap">Travel Map LLC.</string>
+    <string name="Barrett">Brandon Barrett \n  Owner Operator</string>
+    <string name="phone">440-787-3680</string>
+    <string name="yahoo">barrett.brandon82@yahoo.com</string>
+    <string name="locations">Locations served: US: Nationwide</string>
+    <string name="insured">Affordable, Reliable, and Fully Insured</string>
+    <string name="dot">USDOT 2954292 \n MC 000957</string>
+</resources>

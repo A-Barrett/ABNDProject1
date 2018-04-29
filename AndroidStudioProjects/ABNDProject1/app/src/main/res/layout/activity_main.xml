@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        style="@style/text_main"
+        android:text="@string/travelmap" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="185dp"
+        android:src="@drawable/truck" />
+
+    <TextView
+        style="@style/text_barrett"
+        android:text="@string/Barrett" />
+
+    <TextView
+        style="@style/text_phone"
+        android:text="@string/phone" />
+
+    <TextView
+        style="@style/text_email"
+        android:text="@string/yahoo" />
+
+
+    <TextView
+        style="@style/text_location"
+        android:text="@string/locations" />
+
+    <TextView
+        style="@style/text_company_info"
+        android:text="@string/insured" />
+
+    <TextView
+        style="@style/text_dot"
+        android:text="@string/dot" />
+
+</LinearLayout>
