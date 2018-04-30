@@ -15,7 +15,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="185dp"
-        android:src="@drawable/truck" />
+        android:src="@drawable/tractor" />
 
     <TextView
         style="@style/text_barrett"
