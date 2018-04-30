@@ -4,4 +4,5 @@
     <dimen name="text_size_large">36sp</dimen>
     <dimen name="text_size_medium">16sp</dimen>
     <dimen name="drawable_padding_small">5dp</dimen>
+    <dimen name="image_tractor_height">185dp</dimen>
 </resources>

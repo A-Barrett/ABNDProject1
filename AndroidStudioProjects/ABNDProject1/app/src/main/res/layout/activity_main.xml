@@ -13,8 +13,7 @@
         android:text="@string/travelmap" />
 
     <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="185dp"
+        style="@style/image_tractor"
         android:src="@drawable/tractor" />
 
     <TextView

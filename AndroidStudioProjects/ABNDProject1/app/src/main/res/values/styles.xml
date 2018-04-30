@@ -16,7 +16,7 @@
         <item name="android:gravity">center</item>
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">@dimen/text_size_large</item>
-        <item name="android:padding">@dimen/text_view_padding_small</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="text_barrett">
@@ -78,6 +78,11 @@
         <item name="android:padding">@dimen/text_view_padding_small</item>
         <item name="android:textColor">@color/white</item>
         <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="image_tractor">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/image_tractor_height</item>
     </style>
 
 
